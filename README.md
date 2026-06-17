@@ -2,6 +2,9 @@
 
 CarbonTrack is a full-stack web application designed to help users understand, track, and reduce their carbon footprint through simple actions and personalized insights. Built for a hackathon.
 
+## Live Demo
+- **Live App**: https://carbon-track-omega.vercel.app
+- **Backend API**: https://carbontrack-api-sn42.onrender.com
 ## Features
 
 - **Authentication**: Email/password signup & login with JWT. Protected routes.
